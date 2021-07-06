@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacao", "Aplicacao\Aplicacao.csproj", "{76233BFA-AE00-4FAB-A0F5-E519BC4514D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesExcel2", "..\..\..\..\..\..\..\TRINDADE\DEV\Testes\TestesExcel2\TestesExcel2.csproj", "{8CBCA0CB-7798-4198-BC92-A578603695A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesExcel2", "TestesExcel2\TestesExcel2.csproj", "{8CBCA0CB-7798-4198-BC92-A578603695A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
